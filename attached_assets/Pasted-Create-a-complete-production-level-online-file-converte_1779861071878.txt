@@ -1,0 +1,275 @@
+Create a complete production-level online file converter SaaS platform inspired by CloudConvert, SmallPDF, iLovePDF, TinyPNG, Canva-style modern SaaS UI, and current 2026 design trends.
+
+The website must be FULLY WORKING, PROFESSIONAL, MODERN, RESPONSIVE, FAST, SEO OPTIMIZED, MOBILE FRIENDLY, and ready for real users and AdSense monetization.
+
+The website should NOT look like a beginner project. It should look like a real funded startup-quality product.
+
+========================
+🎯 MAIN GOAL
+========================
+
+Build a modern all-in-one online file converter platform where users can:
+- Upload files
+- Select output format
+- Convert files
+- Download converted files
+- Use compression tools
+- Use PDF tools
+- Use image tools
+- Use audio/video tools
+- Use archive tools
+- Use document tools
+
+Everything should work properly in real working condition.
+
+========================
+🧠 IMPORTANT REQUIREMENTS
+========================
+
+- NO fake UI
+- NO placeholder-only sections
+- NO broken buttons
+- NO incomplete features
+- All important tools should function properly
+- Website should feel premium and production-ready
+- UX must feel smooth and professional
+- Conversion workflow must feel intuitive
+- Mobile responsiveness must be excellent
+- SEO structure must be optimized
+- AdSense placement areas should exist naturally
+
+========================
+🎨 UI/UX DESIGN SYSTEM
+========================
+
+Design style:
+- Premium SaaS
+- Modern startup UI
+- Minimal & elegant
+- Clean layouts
+- Futuristic but simple
+- Soft gradients
+- Glassmorphism (light usage)
+- Smooth animations
+- Rounded corners
+- Professional typography
+- Beautiful spacing
+- Soft shadows
+- Modern cards
+- Interactive UI
+
+Use a modern color palette:
+- White/light background
+- Purple-blue gradient accents
+- Neutral grays
+- Elegant dark text
+
+Website should visually compete with:
+- CloudConvert
+- SmallPDF
+- iLovePDF
+- TinyPNG
+- Modern AI SaaS websites
+
+========================
+📄 IMPORTANT PAGES
+========================
+
+Create these pages professionally:
+
+1. Homepage
+2. Converter Tool Pages
+3. Conversion Result Page
+4. All Tools Page
+5. Categories Pages
+6. Blog Page
+7. About Page
+8. Contact Page
+9. FAQ Page
+10. Privacy Policy
+11. Terms Page
+12. Error Pages
+13. Search Results Page
+
+========================
+🏠 HOMEPAGE
+========================
+
+Homepage must contain:
+
+- Premium hero section
+- Drag & drop upload area
+- File format selector
+- Convert button
+- Popular tools section
+- Categories section
+- Features section
+- Stats section
+- Why choose us section
+- FAQ section
+- Testimonials
+- SEO content blocks
+- Beautiful footer
+
+Hero section should instantly feel premium.
+
+========================
+⚙️ CONVERTER TOOL PAGES
+========================
+
+Each converter tool page should include:
+
+- Large modern upload UI
+- Drag & drop functionality
+- File preview
+- File information
+- Output format selection
+- Convert button
+- Progress bar
+- Processing animation
+- Download section
+- Related tools
+- FAQ
+- SEO content
+- Ad placement sections
+
+Workflow:
+1. Upload file
+2. Choose output format
+3. Click Convert
+4. Show processing state
+5. Show result/download
+
+IMPORTANT:
+Do NOT auto-convert immediately after upload.
+
+========================
+🧩 IMPORTANT TOOLS
+========================
+
+Include all important tools users commonly search for.
+
+PDF Tools:
+- PDF to Word
+- Word to PDF
+- Merge PDF
+- Compress PDF
+- Split PDF
+- Image to PDF
+- PDF to JPG
+
+Image Tools:
+- JPG to PNG
+- PNG to WEBP
+- WEBP to JPG
+- Resize Image
+- Compress Image
+- Crop Image
+- Background Remover UI
+- Image Converter
+
+Document Tools:
+- DOCX to PDF
+- PPT to PDF
+- Excel to PDF
+- TXT Converter
+
+Audio/Video Tools:
+- MP4 to MP3
+- Video Compressor
+- Audio Converter
+- Video Converter
+
+Archive Tools:
+- ZIP Extractor
+- ZIP Converter
+- RAR Extractor
+
+========================
+⚡ FUNCTIONALITY
+========================
+
+Everything should function correctly:
+- File upload
+- Drag & drop
+- File validation
+- File size validation
+- Error handling
+- Conversion states
+- Download generation
+- Responsive UI
+- Accessibility
+- Toast notifications
+- Loading states
+- Skeleton loaders
+- Success/error alerts
+
+========================
+📱 RESPONSIVENESS
+========================
+
+Perfect responsive behavior for:
+- Mobile
+- Tablet
+- Desktop
+
+Mobile UI should feel app-like and smooth.
+
+========================
+✨ ANIMATIONS
+========================
+
+Add:
+- Smooth hover effects
+- Scroll animations
+- Fade transitions
+- Upload interactions
+- Modern loading animations
+- Micro-interactions
+
+Animations should feel premium and smooth.
+
+========================
+💰 ADSENSE OPTIMIZATION
+========================
+
+Add natural ad placement areas:
+- Header ads
+- In-content ads
+- Sidebar ads
+- Footer ads
+
+But keep UI clean and user-friendly.
+
+========================
+🔍 SEO OPTIMIZATION
+========================
+
+Website should be fully SEO optimized:
+- Dynamic metadata
+- SEO headings
+- Fast loading
+- Clean HTML structure
+- Structured content
+- Tool-specific pages
+- FAQ schema ready
+- Sitemap ready
+
+========================
+⚙️ TECH STACK
+========================
+
+Preferred stack:
+- Next.js
+- React
+- Tailwind CSS
+- shadcn/ui
+- Framer Motion
+
+Use reusable component architecture.
+
+========================
+🚀 FINAL GOAL
+========================
+
+Build a complete production-quality online file converter platform with modern SaaS UI/UX, fully working conversion workflow, beautiful responsive design, SEO optimization, and professional user experience — something that looks and feels like a real startup competing with CloudConvert and SmallPDF.
